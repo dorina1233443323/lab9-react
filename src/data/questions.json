@@ -1,0 +1,412 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "category": "Geografie",
+      "question": "Care este capitala Islandei?",
+      "options": ["Reykjavík", "Oslo", "Stockholm", "Dublin"],
+      "answer": "Reykjavík",
+      "difficulty": "Ușor"
+    },
+    {
+      "id": 2,
+      "category": "Geografie",
+      "question": "Care este cel mai mare ocean de pe Pământ?",
+      "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+      "answer": "Pacific",
+      "difficulty": "Ușor"
+    },
+    {
+      "id": 3,
+      "category": "Geografie",
+      "question": "Care este țara cu cele mai multe fusuri orare?",
+      "options": ["Rusia", "SUA", "Franța", "China"],
+      "answer": "Franța",
+      "difficulty": "Mediu"
+    },
+    {
+      "id": 4,
+      "category": "Geografie",
+      "question": "Care este cel mai înalt munte din Africa?",
+      "options": ["Kenya", "Kilimanjaro", "Camerun", "Atlas"],
+      "answer": "Kilimanjaro",
+      "difficulty": "Mediu"
+    },
+    {
+      "id": 5,
+      "category": "Geografie",
+      "question": "Ce strâmtoare desparte Europa de Africa?",
+      "options": ["Malacca", "Bering", "Magellan", "Gibraltar"],
+      "answer": "Gibraltar",
+      "difficulty": "Mediu"
+    },
+    {
+      "id": 6,
+      "category": "Geografie",
+      "question": "Ce fluviu trece prin cele mai multe capitale?",
+      "options": ["Nil", "Dunărea", "Amazon", "Rin"],
+      "answer": "Dunărea",
+      "difficulty": "Greu"
+    },
+    {
+      "id": 7,
+      "category": "Geografie",
+      "question": "Unde se află cea mai joasă altitudine de pe uscat?",
+      "options": ["Valea Morții", "Marea Moartă", "Câmpia Turpan", "Marea Caspică"],
+      "answer": "Marea Moartă",
+      "difficulty": "Greu"
+    },
+    {
+      "id": 8,
+      "category": "Geografie",
+      "question": "Țara care ocupă cea mai mare parte din deșertul Gobi?",
+      "options": ["China", "Kazahstan", "Mongolia", "India"],
+      "answer": "Mongolia",
+      "difficulty": "Mediu"
+    },
+    {
+      "id": 9,
+      "category": "Geografie",
+      "question": "Care este capitala Australiei?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+      "answer": "Canberra",
+      "difficulty": "Mediu"
+    },
+    {
+      "id": 10,
+      "category": "Geografie",
+      "question": "Care este cel mai mare lac din Africa?",
+      "options": ["Tanganyika", "Victoria", "Malawi", "Chad"],
+      "answer": "Victoria",
+      "difficulty": "Greu"
+    },
+    {
+      "id": 11,
+      "category": "Geografie",
+      "question": "În ce țară se află cascada Angel Falls?",
+      "options": ["Brazilia", "Columbia", "Venezuela", "Guyana"],
+      "answer": "Venezuela",
+      "difficulty": "Greu"
+    },
+    {
+      "id": 12,
+      "category": "Geografie",
+      "question": "Care este cel mai mic stat din lume?",
+      "options": ["Monaco", "Nauru", "Vatican", "San Marino"],
+      "answer": "Vatican",
+      "difficulty": "Ușor"
+    },
+    {
+      "id": 13,
+      "category": "Geografie",
+      "question": "Ce mare se învecinează cu Iordania și Israel?",
+      "options": ["Marea Roșie", "Marea Moartă", "Marea Neagră", "Marea Caspică"],
+      "answer": "Marea Moartă",
+      "difficulty": "Mediu"
+    },
+    {
+      "id": 14,
+      "category": "Geografie",
+      "question": "Care este arhipelagul cu cele mai multe insule?",
+      "options": ["Indonezia", "Filipine", "Suedia", "Grecia"],
+      "answer": "Suedia",
+      "difficulty": "Greu"
+    },
+    {
+      "id": 15,
+      "category": "Geografie",
+      "question": "Care este cel mai arid loc de pe Pământ?",
+      "options": ["Sahara", "Gobi", "Atacama", "Kalahari"],
+      "answer": "Atacama",
+      "difficulty": "Greu"
+    },
+    {
+      "id": 16,
+      "category": "Istorie",
+      "question": "În ce an a început Primul Război Mondial?",
+      "options": ["1912", "1914", "1918", "1939"],
+      "answer": "1914",
+      "difficulty": "Ușor"
+    },
+    {
+      "id": 17,
+      "category": "Istorie",
+      "question": "Cine a fost primul președinte al SUA?",
+      "options": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+      "answer": "George Washington",
+      "difficulty": "Ușor"
+    },
+    {
+      "id": 18,
+      "category": "Istorie",
+      "question": "Cine a descoperit America în 1492?",
+      "options": ["Vasco da Gama", "Cristofor Columb", "Magellan", "Amerigo Vespucci"],
+      "answer": "Cristofor Columb",
+      "difficulty": "Ușor"
+    },
+    {
+      "id": 19,
+      "category": "Istorie",
+      "question": "În ce an a căzut Zidul Berlinului?",
+      "options": ["1985", "1989", "1991", "1995"],
+      "answer": "1989",
+      "difficulty": "Mediu"
+    },
+    {
+      "id": 20,
+      "category": "Istorie",
+      "question": "Care a fost ultima regină a Egiptului?",
+      "options": ["Nefertiti", "Cleopatra", "Hatshepsut", "Isis"],
+      "answer": "Cleopatra",
+      "difficulty": "Mediu"
+    },
+    {
+      "id": 21,
+      "category": "Istorie",
+      "question": "Cine a scris Declarația de Independență a SUA?",
+      "options": ["Benjamin Franklin", "Thomas Jefferson", "Alexander Hamilton", "James Madison"],
+      "answer": "Thomas Jefferson",
+      "difficulty": "Mediu"
+    },
+    {
+      "id": 22,
+      "category": "Istorie",
+      "question": "În ce an a început Revoluția Franceză?",
+      "options": ["1776", "1789", "1804", "1812"],
+      "answer": "1789",
+      "difficulty": "Greu"
+    },
+    {
+      "id": 23,
+      "category": "Istorie",
+      "question": "Cine a condus Imperiul Mongol în perioada sa de maximă expansiune?",
+      "options": ["Ginghis Han", "Kublai Han", "Attila", "Tamerlane"],
+      "answer": "Ginghis Han",
+      "difficulty": "Mediu"
+    },
+    {
+      "id": 24,
+      "category": "Istorie",
+      "question": "Cât a durat de fapt Războiul de 100 de ani?",
+      "options": ["100 ani", "99 ani", "116 ani", "150 ani"],
+      "answer": "116 ani",
+      "difficulty": "Greu"
+    },
+    {
+      "id": 25,
+      "category": "Istorie",
+      "question": "Cine a fost supranumit 'Cancelarul de Fier' al Germaniei?",
+      "options": ["Wilhelm II", "Otto von Bismarck", "Friedrich cel Mare", "Konrad Adenauer"],
+      "answer": "Otto von Bismarck",
+      "difficulty": "Greu"
+    },
+    {
+      "id": 26,
+      "category": "Istorie",
+      "question": "În ce an a avut loc Bătălia de la Waterloo?",
+      "options": ["1805", "1812", "1815", "1821"],
+      "answer": "1815",
+      "difficulty": "Mediu"
+    },
+    {
+      "id": 27,
+      "category": "Istorie",
+      "question": "Ce civilizație a construit orașul Machu Picchu?",
+      "options": ["Aztecii", "Mayașii", "Incașii", "Olmecii"],
+      "answer": "Incașii",
+      "difficulty": "Mediu"
+    },
+    {
+      "id": 28,
+      "category": "Istorie",
+      "question": "Cine a fost primul împărat al Romei?",
+      "options": ["Iulius Cezar", "Nero", "Augustus", "Traian"],
+      "answer": "Augustus",
+      "difficulty": "Greu"
+    },
+    {
+      "id": 29,
+      "category": "Istorie",
+      "question": "Cine a inventat tiparul cu caractere mobile?",
+      "options": ["Leonardo da Vinci", "Johannes Gutenberg", "Isaac Newton", "Galileo Galilei"],
+      "answer": "Johannes Gutenberg",
+      "difficulty": "Mediu"
+    },
+    {
+      "id": 30,
+      "category": "Istorie",
+      "question": "Asasinarea cărui arhiduce a declanșat Primul Război Mondial?",
+      "options": ["Franz Ferdinand", "Rudolf", "Maximilian", "Otto"],
+      "answer": "Franz Ferdinand",
+      "difficulty": "Mediu"
+    },
+    {
+      "id": 31,
+      "category": "Știință",
+      "question": "Care este simbolul chimic al aurului?",
+      "options": ["Ag", "Fe", "Au", "Pb"],
+      "answer": "Au",
+      "difficulty": "Ușor"
+    },
+    {
+      "id": 32,
+      "category": "Știință",
+      "question": "Care este cea mai apropiată planetă de Soare?",
+      "options": ["Venus", "Marte", "Mercur", "Pământ"],
+      "answer": "Mercur",
+      "difficulty": "Ușor"
+    },
+    {
+      "id": 33,
+      "category": "Știință",
+      "question": "Cine a formulat teoria relativității?",
+      "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Niels Bohr"],
+      "answer": "Albert Einstein",
+      "difficulty": "Ușor"
+    },
+    {
+      "id": 34,
+      "category": "Știință",
+      "question": "Ce gaz este esențial pentru respirația umană?",
+      "options": ["Azot", "Dioxid de carbon", "Oxigen", "Heliu"],
+      "answer": "Oxigen",
+      "difficulty": "Ușor"
+    },
+    {
+      "id": 35,
+      "category": "Știință",
+      "question": "Câte oase are, în medie, un adult uman?",
+      "options": ["150", "206", "300", "215"],
+      "answer": "206",
+      "difficulty": "Mediu"
+    },
+    {
+      "id": 36,
+      "category": "Știință",
+      "question": "Cine este considerat inventatorul becului electric?",
+      "options": ["Nikola Tesla", "Thomas Edison", "Alexander Bell", "James Watt"],
+      "answer": "Thomas Edison",
+      "difficulty": "Mediu"
+    },
+    {
+      "id": 37,
+      "category": "Știință",
+      "question": "Care este cel mai dens metal din tabelul periodic?",
+      "options": ["Plumb", "Iridiu", "Osmiu", "Aur"],
+      "answer": "Osmiu",
+      "difficulty": "Greu"
+    },
+    {
+      "id": 38,
+      "category": "Știință",
+      "question": "Ce planetă este cunoscută sub numele de 'Planeta Roșie'?",
+      "options": ["Jupiter", "Marte", "Saturn", "Venus"],
+      "answer": "Marte",
+      "difficulty": "Ușor"
+    },
+    {
+      "id": 39,
+      "category": "Știință",
+      "question": "Cine a scris primul algoritm destinat unei mașini de calcul?",
+      "options": ["Alan Turing", "Ada Lovelace", "Charles Babbage", "Grace Hopper"],
+      "answer": "Ada Lovelace",
+      "difficulty": "Greu"
+    },
+    {
+      "id": 40,
+      "category": "Știință",
+      "question": "Care este unitatea de măsură pentru intensitatea curentului electric?",
+      "options": ["Volt", "Watt", "Amper", "Ohm"],
+      "answer": "Amper",
+      "difficulty": "Mediu"
+    },
+    {
+      "id": 41,
+      "category": "Știință",
+      "question": "Care este cea mai mare celulă din corpul uman?",
+      "options": ["Neuronul", "Ovulul", "Leucocita", "Spermatozoidul"],
+      "answer": "Ovulul",
+      "difficulty": "Greu"
+    },
+    {
+      "id": 42,
+      "category": "Știință",
+      "question": "Ce particulă subatomică are sarcină electrică negativă?",
+      "options": ["Proton", "Neutron", "Electron", "Quark"],
+      "answer": "Electron",
+      "difficulty": "Mediu"
+    },
+    {
+      "id": 43,
+      "category": "Știință",
+      "question": "Care este viteza luminii în vid (aproximativ)?",
+      "options": ["150.000 km/s", "300.000 km/s", "500.000 km/s", "1.000.000 km/s"],
+      "answer": "300.000 km/s",
+      "difficulty": "Mediu"
+    },
+    {
+      "id": 44,
+      "category": "Știință",
+      "question": "Cine a descoperit penicilina?",
+      "options": ["Marie Curie", "Alexander Fleming", "Louis Pasteur", "Gregor Mendel"],
+      "answer": "Alexander Fleming",
+      "difficulty": "Mediu"
+    },
+    {
+      "id": 45,
+      "category": "Știință",
+      "question": "Ce metal este lichid la temperatura camerei?",
+      "options": ["Galiu", "Magneziu", "Mercur", "Cupru"],
+      "answer": "Mercur",
+      "difficulty": "Mediu"
+    }
+  ],
+  "category": [
+    {
+      "id": 0,
+      "name": "Toate",
+      "questionSelesct": [5, 10, 15, 30, 45]
+    },
+    {
+      "id": 1,
+      "name": "Geografie",
+      "questionSelesct": [5, 10, 15]
+    },
+    {
+      "id": 2,
+      "name": "Istorie",
+      "questionSelesct": [5, 10, 15]
+    },    
+    {
+      "id": 3,
+      "name": "Știință",
+      "questionSelesct": [5, 10, 15]
+    }
+  ],
+  "timeLimit": [
+    {
+      "id":0,
+      "name":"Nelimitat"
+    },
+    {
+      "id":10,
+      "name":"10 secunde",
+      "time":10
+    },
+    {
+      "id":15,
+      "name":"15 secunde",
+      "time":15
+    },
+    {
+      "id":20,
+      "name":"20 secunde",
+      "time":20
+    },
+    {
+      "id":30,
+      "name":"30 secunde",
+      "time":30
+    }
+  ]
+}
